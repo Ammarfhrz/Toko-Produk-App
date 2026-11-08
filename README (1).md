@@ -3,8 +3,8 @@
 Aplikasi desktop JavaFX untuk mencatat produk toko. Proyek ini adalah hasil modifikasi aplikasi praktikum TiketAppAdvanced menjadi aplikasi pencatatan produk, dengan struktur dan pola kode yang sama (Navigator, controller, FXML, dan CSS).
 
 **Identitas**
-- Nama: Muhammad Angger Satrio
-- NIM: 2501781
+- Nama: Muammar Dhyo Fahrezi
+- NIM: 2502113
 - Tugas: Tugas Individu, Modifikasi Aplikasi Menjadi Daftar Produk Toko
 
 ## Fitur
