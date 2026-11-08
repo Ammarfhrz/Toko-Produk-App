@@ -32,7 +32,7 @@ Toko-Produk-App/
 
     ---
 
-**Cara pakai di halaman GitHub kamu saat ini:**
+
 1. Blok dan salin seluruh teks di dalam kotak kode di atas.
 2. Tempel (*paste*) ke editor web GitHub yang sedang terbuka di layar kamu (menggantikan teks yang mungkin masih terpotong)[cite: 4].
 3. Gulir ke bawah halaman GitHub tersebut, lalu klik tombol hijau **Commit changes...** untuk menyimpannya.
